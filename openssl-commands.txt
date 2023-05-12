@@ -1,0 +1,2 @@
+[root@prswamin-testvnf-vm0 ~]# openssl version
+OpenSSL 1.1.1k  FIPS 25 Mar 2021
